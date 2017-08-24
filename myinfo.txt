@@ -1,1 +1,2 @@
 Full name: Kristian Mills
+Department: Computer Science
